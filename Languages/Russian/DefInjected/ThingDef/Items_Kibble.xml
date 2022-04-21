@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeatyKibble.label>комбикорм (мясной)</MeatyKibble.label>
+  <MeatyKibble.description>Сухой корм для животных, приготовленный из смеси мяса и растительных источников, специально разработанный для плотоядных животных. Люди могут есть это, но им это очень, очень не понравится.</MeatyKibble.description>
+
+  <VeggieKibble.label>комбикорм (растительный)</VeggieKibble.label>
+  <VeggieKibble.description>Сухой корм для животных, приготовленный из смешанных растительных источников, специально разработанный для травоядных животных. Люди могут есть это, но им это очень, очень не понравится.</VeggieKibble.description>
+
+
+</LanguageData>

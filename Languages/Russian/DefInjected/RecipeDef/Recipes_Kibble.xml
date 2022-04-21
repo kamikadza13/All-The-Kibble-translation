@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeMeatyKibble.label>сделать мясной комбикорм</MakeMeatyKibble.label>
+  <MakeMeatyKibble.description>Приготовьте корм для плотоядных животных, сочетая сырое мясо и растения.</MakeMeatyKibble.description>
+  <MakeMeatyKibble.jobString>Делает мясной комбикорм.</MakeMeatyKibble.jobString>
+
+  <MakeVeggieKibble.label>сделать растительный комбикорм</MakeVeggieKibble.label>
+  <MakeVeggieKibble.description>Приготовьте корм для животных для травоядных животных, сочетая сырое мясо и растения.</MakeVeggieKibble.description>
+  <MakeVeggieKibble.jobString>Делает растительный комбикорм.</MakeVeggieKibble.jobString>
+
+
+</LanguageData>
